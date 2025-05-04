@@ -3,3 +3,13 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+
+# Ignore private SSH key files
+ishron_git
+ishron_git.pub
+ishron2
+ishron2.pub
+ishron3
+ishron3.pub
+
+
